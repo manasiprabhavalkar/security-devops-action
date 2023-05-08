@@ -1,4 +1,4 @@
-name: MSDO ubuntu-latest github
+name: MSDO ubuntu-latest github-action
 on:
   push:
     branches:
